@@ -1,1 +1,1 @@
-esse texto deve ser apagao via git
+esse texto deve ser apagado via git
