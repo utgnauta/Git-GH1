@@ -12,4 +12,7 @@ git clone https://..
 git log
 git branch
 git branch -b nova_branch
+git checkout 
 git stash
+git tag
+git tag -a nome -m "descrição"
