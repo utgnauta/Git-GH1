@@ -1,1 +1,2 @@
 esse texto deve ser apagado via git
+Esse arquivo deve permanecer para nova feature
