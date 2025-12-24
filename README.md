@@ -16,3 +16,4 @@ comandos interessantes
 - git stash
 - git tag
 - git tag -a nome -m "descrição"
+- git fetch -a
