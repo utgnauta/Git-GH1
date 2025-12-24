@@ -7,6 +7,7 @@ comandos interessantes:
 - git add .
 - git commit -a -m "mensagem"
 - git push
+- git push --set-upstream origin nome_da_branch
 - git pull
 - git clone https://... .
 - git log
@@ -16,5 +17,5 @@ comandos interessantes:
 - git stash
 - git tag
 - git tag -a nome -m "descrição"
-- git fetch -a
+- git fetch -a ->adiciona branch
 - 
