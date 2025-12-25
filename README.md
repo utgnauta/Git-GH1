@@ -46,4 +46,34 @@ Repo teste para Git&amp;Github
 
 - git commit -a -m "Criada função A
 Função criada para...
-" -> Explique o porque do commit e o que ela faz
+" -> Explique o porque do commit e o que ela faz.
+
+# README.md
+
+### Cabeçalhos
+- cabeçalhos em markdown são determinados por #
+- #->h1, ##->h2, ###->h3...
+
+### Ênfase
+- **Asterísticos** ou __underlines__ duplos deixam o texto em negrito.
+- *Asterístico* ou _underline_ simples deixam o texto em itâlico.
+
+### Listas
+listas não ordenadas são feitas com asterístico em .md
+* HTML
+* CSS
+* Js
+* MySQL
+
+Listas ordenadas são feitas com o número seguido de um ponto
+1. HTML
+   - Hiper Text Markup Language
+2. CSS
+   - Cascading styling sheet
+3. JS
+4. MySQL
+
+# Imagens
+
+- Imagens são inseridas por ![Texto Alt](link da imagem);
+![Mamaco](imgs/mamaco.webp);
