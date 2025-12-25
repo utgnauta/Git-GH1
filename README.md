@@ -31,3 +31,12 @@ Repo teste para Git&amp;Github
 
 - git gc -> libera memória retirando arquivos que o git julga desnecessários
 - git fsck -> Verifica a integridade de arquivos
+
+# Comandos expecíficos
+
+- git reflog -> descreve cada ação do repo
+- git reset --hard hash -> retorna ao ponto exatro referenciado pelo reflog
+- git archive --format zip --output  nome_do_arquivo.zip branch_desejada -> cria um arquivo do formato escolhido com base na branch entregue
+
+# private branch
+
