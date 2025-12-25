@@ -40,3 +40,4 @@ Repo teste para Git&amp;Github
 
 # private branch
 
+- git rebase branch_limpa branch_suja -> complexo mas interessante
