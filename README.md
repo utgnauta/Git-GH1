@@ -41,3 +41,9 @@ Repo teste para Git&amp;Github
 # private branch
 
 - git rebase branch_limpa branch_suja -> complexo mas interessante
+
+# Formatação de commits
+
+- git commit -a -m "Criada função A
+Função criada para...
+" -> Explique o porque do commit e o que ela faz
