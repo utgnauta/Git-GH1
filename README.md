@@ -77,3 +77,19 @@ Listas ordenadas são feitas com o número seguido de um ponto
 
 - Imagens são inseridas por ![Texto Alt](link da imagem);
 ![Mamaco](imgs/mamaco.webp);
+
+# Links 
+
+- Podemos inserir links com [[Texto Alt](link)]()
+- imagens também podem ser links[![Mamaco](imgs/mamaco.webp);]()
+
+# Códigos
+
+```
+    Códigos vão ser formatados assim
+```
+
+# Lista de tarefas
+
+- [X] tarefa concluida.
+- [ ] tarefa sem conclusão
