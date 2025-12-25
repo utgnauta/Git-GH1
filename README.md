@@ -3,6 +3,8 @@ Repo teste para Git&amp;Github
 
 comandos interessantes:
 - git init
+- git remote -v
+- git remote add/rm origin
 - git status
 - git add .
 - git commit -a -m "mensagem"
@@ -18,4 +20,6 @@ comandos interessantes:
 - git tag
 - git tag -a nome -m "descrição"
 - git fetch -a ->adiciona branch
-- 
+- git submodule
+- git submodule add https://... name
+- git push --recurse-submodule=on-demand
