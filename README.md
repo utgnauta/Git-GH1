@@ -1,12 +1,13 @@
 # Git-GH1
 Repo teste para Git&amp;Github
 
-comandos interessantes:
+# comandos interessantes:
 - git init
 - git remote -v
 - git remote add/rm origin
 - git status
-- git add .
+- git add . -> adiciona modificação para ser trackeada
+- git restore . -> descarta alteração
 - git commit -a -m "mensagem"
 - git push
 - git push --set-upstream origin nome_da_branch
@@ -23,3 +24,10 @@ comandos interessantes:
 - git submodule
 - git submodule add https://... name
 - git push --recurse-submodule=on-demand
+- git clean -> limpa arquivos antes de serem added, bom para quando n foi adicionado um gitignore bem feito.
+- git clean -f -> força a limpeza
+
+# comandos de rotina
+
+- git gc -> libera memória retirando arquivos que o git julga desnecessários
+- git fsck -> Verifica a integridade de arquivos
